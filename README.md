@@ -2,9 +2,10 @@
 
 A visually stunning clone of the original [Sundown Studio](https://www.sundown-studio.com/) website. This project was built to explore and understand advanced CSS animations and smooth interactions. The animations and transitions on the original site stood out as truly impressive, which inspired this project.
 
-## 🚀 Live Demo
+---
+## 📸 Screenshot
 
-[Click here to view the website](#) <!-- Replace '#' with your GitHub Pages or live deployment link -->
+![Animation Website Demo](screenshot.png)
 
 ---
 
